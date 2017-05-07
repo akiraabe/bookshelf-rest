@@ -30,6 +30,7 @@ public class Book {
 
     private Book() {}
     public Book(String title, String publisher, String author, Date publishDate) {
+        System.out.println("Book#constructor");
         this.title = title;
         this.publisher = publisher;
         this.author = author;
