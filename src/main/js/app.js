@@ -37,7 +37,7 @@ class BookList extends React.Component {
                     <tbody>
                         <tr>
                             <th>Title</th>
-                            <th>Author</th>
+                            <th>著者</th>
                             <th>Publisher</th>
                             <th>PublishDate</th>
                         </tr>
